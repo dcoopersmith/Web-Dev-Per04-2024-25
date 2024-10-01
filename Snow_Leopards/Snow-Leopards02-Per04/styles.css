@@ -1,0 +1,12 @@
+html {
+    color:slategray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("himalayas.jpg");
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(220, 220, 220, 0.9);
+    padding: 10px 50px 10px 100px;
+}
