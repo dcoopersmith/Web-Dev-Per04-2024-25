@@ -1,0 +1,45 @@
+Web Dev Challenge 01
+
+Create a 4-page "Palm Pizza" website with at least two related images on every webpage. 
+
+One of the images on each page must be the logo/icon (at the top left corner). 
+
+The other image should be some related image of a pizza. 
+
+An h1 on each page shows the main title or heading of that page. 
+
+An h2 is used to give more info about the larger image
+
+Your website must have a working navigation system allowing users to easily
+go back and forth from every page to every other page on the website.
+
+Each HTML page of your website must have some working CSS linked to the styles.css file.
+
+For extra credit: the logo/icon should be a link taking you back to the Home page.
+
+Your website must include: 
+
+HTML: 
+ - 4 HTML files named: index.html, pepperoni.html, veggie.html, cheese.html
+ - each HTML page starts out with basic setup: DOCTYPE, html, head, body
+ - in the head element, include a title tag with title: "Palm Pizza"
+ - every HTML page has a link to styles.css with the link tag. Where does it go? What about the href?
+ - every HTML page has at least these tags: h1, h2, p
+ - every HTML page has at least two images. Tag: img
+
+CSS: 
+ - 1 CSS file named: styles.css
+ - use an html selector with font-family: sans-serif; and font-size: 20px;
+ - all h1 text should be have color: red
+ - all h2 text should be have color: blue
+ - all p text should have color: green
+
+--------------------------------------------------------------------------
+ Paragraph ideas...
+ (you could use these for your p tags, but you don't have to)
+
+ Home: Many students would say pizza is their favorite food!
+ Pepperoni: Is pepperoni the world's most popular pizza?!
+ Cheese: The more cheese the better?
+ Veggie: Are veggie pizzas more healthy?
+
