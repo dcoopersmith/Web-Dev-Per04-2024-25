@@ -1,7 +1,28 @@
+html {
+    color: slategray;
+    background-color: white;
+}
+
+body {
+    width: 75%;
+    margin: 0 auto;
+    background-color: rgba(220, 220, 220, 0.9);
+}
+
+
+
 h1 {
     color: red;
 }
 
 h2 {
     color: blue;
+}
+
+nav {
+    background-color: maroon;
+}
+
+a {
+    color: white;
 }
