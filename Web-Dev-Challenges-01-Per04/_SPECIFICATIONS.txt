@@ -15,7 +15,9 @@ go back and forth from every page to every other page on the website.
 
 Each HTML page of your website must have some working CSS linked to the styles.css file.
 
-For extra credit: the logo/icon should be a link taking you back to the Home page.
+For extra credit: 
+1) the logo/icon should be a link taking you back to the Home page.
+2) all your images are inside of an images folder
 
 Your website must include: 
 
