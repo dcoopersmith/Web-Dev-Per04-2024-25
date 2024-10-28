@@ -1,0 +1,22 @@
+Create a 1 page website (no navigation) that uses both unordered lists (ul) and ordered lists (ol).
+
+Your ordered list will have: 
+    a) 7 list items (li) showing your 7 periods in school in the correct order
+        Example:    1. Math
+                    2. Language Arts
+                    3. P.E.
+                    4. Elective - Web Development 
+                    5. LUNCH
+                    6. Science
+                    7. Social Studies
+
+Your unordered list will have: 
+    a) 5 (or more) list items showing your favorite foods
+        Example:    * Chicken Tikka Masala
+                    * Sushi
+		            * Raspberries
+		            * Strawberries
+                    * Steak
+		            * Ice Cream!
+
+                    
