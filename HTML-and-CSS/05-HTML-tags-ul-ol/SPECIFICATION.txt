@@ -1,7 +1,7 @@
 Create a 2-page website (with navigation) where index.html shows ordered lists (ol) and unordered.html shows unordered lists (ul).
 
 Your ordered list page will have: 
-    a) 7 list items (li) showing your 7 periods in school for each day of the week (shows the rotating schedule)
+    a) 7 list items (li) per day showing your 7 periods in school for each day of the week (shows the rotating schedule)
         Example:   
 
         Nathan's Monday Schedule
@@ -24,8 +24,8 @@ Your ordered list page will have:
 
             .... and so on for all 5 days(Mon, Tue, Wed, Thu, Fri)
 
-Your unordered list page will have: 
-    a) 5 (or more) list items showing your favorite foods
+Your unordered list page will have several unordered lists, each showing: 
+    a) 5 (or more) list items. Start with favorite foods, favorite sports, favorite animals, etc
         Example:    
         
         Mr. Coopersmith's Favorite Foods
