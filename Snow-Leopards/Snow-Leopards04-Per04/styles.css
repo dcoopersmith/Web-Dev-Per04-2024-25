@@ -11,12 +11,21 @@ body {
     padding: 10px 50px 10px 100px;
 }
 
+.fixed-nav-bar {
+    background-color: darkred;
+}
+
 h1 {
     color: maroon;
     font: bold 50px sans-serif;
 }
 
-h2 {
+h2, h3 {
     color: midnightblue;
     font-family: sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
