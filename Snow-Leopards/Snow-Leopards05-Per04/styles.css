@@ -13,6 +13,12 @@ body {
 
 .fixed-nav-bar {
     background-color: darkred;
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    box-shadow: 2px 2px 2px gray;
 }
 
 section {
