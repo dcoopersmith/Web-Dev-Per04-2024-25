@@ -33,6 +33,7 @@ function loadQues()
         choice.value = i;
 
         choicelabel.textContent = Questions[currQuestion].a[i].text;
+        
         choicesdiv.appendChild(choice);
     }
 }
