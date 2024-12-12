@@ -7,7 +7,23 @@ const Questions = [
              {text: "in the mountains.", isCorrect: true},
              {text: "in the city.", isCorrect: false},
             ]
-    }
+    },
+    {
+        q: "Fill in the blank: Snow leopards have the colors ____.",
+        a:  [{text: "red, with whitish fur.", isCorrect: false},
+             {text: "whitish-gray fur.", isCorrect: true},
+             {text: "orange with black stripes.", isCorrect: false},
+             {text: "black with white dots.", isCorrect: false},
+            ]
+    },
+    {
+        q: "Fill in the blank: Snow leopards use their tails for ____.",
+        a:  [{text: "balance.", isCorrect: true},
+             {text: "kill their prey.", isCorrect: false},
+             {text: "grabbing objects.", isCorrect: false},
+             {text: "swinging.", isCorrect: false},
+            ]
+    },
 
 ];
 
@@ -35,6 +51,8 @@ function loadQues()
         choicelabel.textContent = Questions[currQuestion].a[i].text;
         
         choicesdiv.appendChild(choice);
+        choicesdiv.appendChild(choicelabel);
+        opt.appendChild(choicesdiv);
     }
 }
 
