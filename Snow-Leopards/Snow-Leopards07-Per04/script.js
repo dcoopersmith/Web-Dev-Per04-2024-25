@@ -24,10 +24,18 @@ const Questions = [
              {text: "swinging.", isCorrect: false},
             ]
     },
-
+    {
+        q: "Fill in the blank: Snow leopards eat ____.",
+        a:  [{text: "frogs.", isCorrect: false},
+             {text: "fish.", isCorrect: false},
+             {text: "lions.", isCorrect: false},
+             {text: "deer.", isCorrect: true},
+            ]
+    },
+    // add more questions here...
 ];
 
-let currQuestion = 0;
+let currQuestion = 3;
 let score = 0;
 
 function loadQues() 
@@ -57,4 +65,9 @@ function loadQues()
 }
 
 loadQues();
+
+function checkAns() 
+{
+    const selectedAns = parseInt( document.querySelector('input[name="answer"]:checked').value    );
+}
 
